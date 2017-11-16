@@ -1,0 +1,11 @@
+https://zappware.com/
+
+RN:
+https://en.wikipedia.org/wiki/React_(JavaScript_library) 
+Learning React Native: Building Native Mobile Apps with JavaScript Door Bonnie Eisenman
+
+
+
+QT:
+https://nl.wikipedia.org/wiki/Qt-toolkit
+https://en.wikipedia.org/wiki/Qt_(software)
