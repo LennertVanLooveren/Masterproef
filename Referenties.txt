@@ -9,3 +9,11 @@ Learning React Native: Building Native Mobile Apps with JavaScript Door Bonnie E
 QT:
 https://nl.wikipedia.org/wiki/Qt-toolkit
 https://en.wikipedia.org/wiki/Qt_(software)
+https://www1.qt.io/company/
+http://digia.com/en/actual/news/2016/digia-and-qt-have-demerged-into-two-companies--digias-new-strategys-main-themes-revealed/
+C++ GUI Programming with Qt 4
+Foundations of QT
+https://en.wikipedia.org/wiki/OpenGL
+https://www.opengl.org/resources/libraries/glut/
+https://en.wikipedia.org/wiki/WGL_(API)
+QT – Introduction C++ GUI Programming with Qt 4 -- presentation: Published by Britney Cameron Daniels
