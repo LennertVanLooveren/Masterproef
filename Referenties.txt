@@ -3,6 +3,8 @@ https://zappware.com/
 RN:
 https://en.wikipedia.org/wiki/React_(JavaScript_library) 
 Learning React Native: Building Native Mobile Apps with JavaScript Door Bonnie Eisenman
+https://code.facebook.com/posts/597378980427792/react-native-a-year-in-review/
+https://en.wikipedia.org/wiki/Document_Object_Model
 
 
 
@@ -17,3 +19,6 @@ https://en.wikipedia.org/wiki/OpenGL
 https://www.opengl.org/resources/libraries/glut/
 https://en.wikipedia.org/wiki/WGL_(API)
 QT – Introduction C++ GUI Programming with Qt 4 -- presentation: Published by Britney Cameron Daniels
+http://opensourceforu.com/2017/06/qt-cross-platform-development-toolkit/
+https://www.quora.com/How-is-QT-cross-platform
+http://doc.qt.io/qt-4.8/signalsandslots.html
