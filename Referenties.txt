@@ -8,6 +8,7 @@ https://en.wikipedia.org/wiki/Document_Object_Model
 
 
 
+
 QT:
 https://nl.wikipedia.org/wiki/Qt-toolkit
 https://en.wikipedia.org/wiki/Qt_(software)
@@ -22,3 +23,8 @@ QT – Introduction C++ GUI Programming with Qt 4 -- presentation: Published by Br
 http://opensourceforu.com/2017/06/qt-cross-platform-development-toolkit/
 https://www.quora.com/How-is-QT-cross-platform
 http://doc.qt.io/qt-4.8/signalsandslots.html
+
+Xamarin:
+https://en.wikipedia.org/wiki/Xamarin
+https://msdn.microsoft.com/en-us/library/mt488768.aspx
+https://www.ambrero.nl/artikelen/xamarin-met-c-apps-ontwikkelen-voor-android-ios-en-windows
