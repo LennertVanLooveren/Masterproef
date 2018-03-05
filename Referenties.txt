@@ -28,3 +28,5 @@ Xamarin:
 https://en.wikipedia.org/wiki/Xamarin
 https://msdn.microsoft.com/en-us/library/mt488768.aspx
 https://www.ambrero.nl/artikelen/xamarin-met-c-apps-ontwikkelen-voor-android-ios-en-windows
+Mastering Cross-Platform Development with Xamarin door Can Bilgin
+Xamarin Mobile Application Development door Dan Hermes

@@ -1,0 +1,635 @@
+{
+  "data": {
+    "channelList": {
+      "channels": {
+        "totalCount": 24,
+        "edges": [
+          {
+            "node": {
+              "title": "ORF eins",
+              "logo": {
+                "url": "http://212.183.29.132:8890/dev_facade/content/svcs/360x132_channel_m_l_x3/00b86215-9bbd-465e-87f0-0adbe4aed5c2.png"
+              },
+              "eventsAt": {
+                "TVitem": 
+                  {
+                    "id": "78613",
+                    "title": "The Fosters",
+                    "start": "2018-02-28T11:55:00Z",
+                    "end": "2018-02-28T12:35:00Z",
+                    "smallImage": {
+                      "url": "http://212.183.29.132:8890/dev_facade/content/epg/313x176_event_m_m_x1/1920x1080_p9761371_i_h10_ab_2.jpg"
+                    },
+                    "entitlements": {
+                      "restartTV": true,
+                      "catchupTV": true,
+                      "networkRecording": true
+                    }
+                  }
+                
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "ORF 2 W",
+              "logo": {
+                "url": "http://212.183.29.132:8890/dev_facade/content/svcs/360x132_channel_m_l_x3/8344a280-5224-4eeb-8d95-81f96cdba047.png"
+              },
+              "eventsAt": {
+                "TVitem": 
+                  {
+                    "id": "71880",
+                    "title": "ZIB",
+                    "start": "2018-02-28T12:00:00Z",
+                    "end": "2018-02-28T12:15:00Z",
+                    "smallImage": {
+                      "url": "http://212.183.29.132:8890/dev_facade/content/epg/313x176_event_m_m_x1/1920x1080_p14109433_b_h10_ab_2.jpg"
+                    },
+                    "entitlements": {
+                      "restartTV": true,
+                      "catchupTV": true,
+                      "networkRecording": true
+                    }
+                  }
+                
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "ATV",
+              "logo": {
+                "url": "http://212.183.29.132:8890/dev_facade/content/svcs/360x132_channel_m_l_x3/345788fc-665f-4536-be8e-6f7de2df054a.png"
+              },
+              "eventsAt": {
+               "TVitem": 
+                  {
+                    "id": "72049",
+                    "title": "Hawaii Five-0",
+                    "start": "2018-02-28T11:50:00Z",
+                    "end": "2018-02-28T12:45:00Z",
+                    "smallImage": {
+                      "url": "http://212.183.29.132:8890/dev_facade/content/epg/313x176_event_m_m_x1/1920x1080_p10271829_e_h8_ab_2.jpg"
+                    },
+                    "entitlements": {
+                      "restartTV": true,
+                      "catchupTV": true,
+                      "networkRecording": true
+                    }
+                  }
+                
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "PULS 4",
+              "logo": {
+                "url": "http://212.183.29.132:8890/dev_facade/content/svcs/360x132_channel_m_l_x3/14651ff6-b1cd-44cc-bd2b-19430929145e.png"
+              },
+              "eventsAt": {
+              "TVitem": 
+                  {
+                    "id": "72634",
+                    "title": "Julia Leischik sucht: Bitte melde dich",
+                    "start": "2018-02-28T11:15:00Z",
+                    "end": "2018-02-28T12:10:00Z",
+                    "smallImage": {
+                      "url": "http://212.183.29.132:8890/dev_facade/content/epg/313x176_event_m_m_x1/1920x1080_g293_h10_aa_2.jpg"
+                    },
+                    "entitlements": {
+                      "restartTV": false,
+                      "catchupTV": false,
+                      "networkRecording": false
+                    }
+                  }
+                
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Sat.1 Austria",
+              "logo": {
+                "url": "http://212.183.29.132:8890/dev_facade/content/svcs/360x132_channel_m_l_x3/b5a04a80-446b-4aa2-a340-78385d24c2da.png"
+              },
+              "eventsAt": {
+                "TVitem": 
+                  {
+                    "id": "71698",
+                    "title": "Anwälte im Einsatz",
+                    "start": "2018-02-28T12:00:00Z",
+                    "end": "2018-02-28T13:00:00Z",
+                    "smallImage": {
+                      "url": "http://212.183.29.132:8890/dev_facade/content/epg/313x176_event_m_m_x1/1920x1080_p10904313_b_h10_aa_2.jpg"
+                    },
+                    "entitlements": {
+                      "restartTV": true,
+                      "catchupTV": true,
+                      "networkRecording": true
+                    }
+                  }
+                
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "RTL Austria",
+              "logo": {
+                "url": "http://212.183.29.132:8890/dev_facade/content/svcs/360x132_channel_m_l_x3/b51128c0-2864-40f7-95d3-257f9ab53146.png"
+              },
+              "eventsAt": {
+                "TVitem": 
+                  {
+                    "id": "71941",
+                    "title": "Punkt 12 - Das RTL-Mittagsjournal",
+                    "start": "2018-02-28T11:00:00Z",
+                    "end": "2018-02-28T13:00:00Z",
+                    "smallImage": {
+                      "url": "http://212.183.29.132:8890/dev_facade/content/epg/313x176_event_m_m_x1/1920x1080_g100_h10_ab_2.jpg"
+                    },
+                    "entitlements": {
+                      "restartTV": false,
+                      "catchupTV": false,
+                      "networkRecording": false
+                    }
+                  
+                }
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "ProSieben Austria",
+              "logo": {
+                "url": "http://212.183.29.132:8890/dev_facade/content/svcs/360x132_channel_m_l_x3/7bb87da2-58f3-4e04-9e78-978f6322aef5.png"
+              },
+              "eventsAt": {
+                "TVitem": 
+                  {
+                    "id": "71804",
+                    "title": "2 Broke Girls",
+                    "start": "2018-02-28T11:40:00Z",
+                    "end": "2018-02-28T12:05:00Z",
+                    "smallImage": {
+                      "url": "http://212.183.29.132:8890/dev_facade/content/epg/313x176_event_m_m_x1/1920x1080_p8680648_i_h10_ab_2.jpg"
+                    },
+                    "entitlements": {
+                      "restartTV": false,
+                      "catchupTV": false,
+                      "networkRecording": false
+                    }
+                  
+                }
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "VOX Austria",
+              "logo": {
+                "url": "http://212.183.29.132:8890/dev_facade/content/svcs/360x132_channel_m_l_x3/b07f8dec-4bd5-4680-8767-5b204a61c7ec.png"
+              },
+              "eventsAt": {
+                "TVitem": 
+                  {
+                    "id": "71838",
+                    "title": "Zwischen Tüll und Tränen",
+                    "start": "2018-02-28T12:00:00Z",
+                    "end": "2018-02-28T13:00:00Z",
+                    "smallImage": {
+                      "url": "http://212.183.29.132:8890/dev_facade/content/epg/313x176_event_m_m_x1/1920x1080_g174_h10_aa_2.jpg"
+                    },
+                    "entitlements": {
+                      "restartTV": false,
+                      "catchupTV": false,
+                      "networkRecording": false
+                    }
+                  }
+                
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "sixx Austria",
+              "logo": {
+                "url": "http://212.183.29.132:8890/dev_facade/content/svcs/360x132_channel_m_l_x3/b41c42f1-43ed-4ce1-89f9-a9469ffe8212.png"
+              },
+              "eventsAt": {
+                "TVitem": 
+                  {
+                    "id": "71727",
+                    "title": "Der Super-Doc - Einsatz für 4 Pfoten",
+                    "start": "2018-02-28T11:45:00Z",
+                    "end": "2018-02-28T12:40:00Z",
+                    "smallImage": {
+                      "url": "http://212.183.29.132:8890/dev_facade/content/epg/313x176_event_m_m_x1/1920x1080_p10735269_i_h8_aa_2.jpg"
+                    },
+                    "entitlements": {
+                      "restartTV": false,
+                      "catchupTV": false,
+                      "networkRecording": false
+                    }
+                  }
+                
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Servus TV",
+              "logo": {
+                "url": "http://212.183.29.132:8890/dev_facade/content/svcs/360x132_channel_m_l_x3/1136d6fa-f45b-44e9-be37-eb9e76299518.png"
+              },
+              "eventsAt": {
+                "TVitem": 
+                  {
+                    "id": "77744",
+                    "title": "Auf Entdeckungsreise durch Europa",
+                    "start": "2018-02-28T11:15:00Z",
+                    "end": "2018-02-28T12:10:00Z",
+                    "smallImage": {
+                      "url": "http://212.183.29.132:8890/dev_facade/content/epg/313x176_event_m_m_x1/1920x1080_p428358_i_h10_aa_2.jpg"
+                    },
+                    "entitlements": {
+                      "restartTV": true,
+                      "catchupTV": true,
+                      "networkRecording": true
+                    }
+                  }
+                
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "RTL2 Austria",
+              "logo": {
+                "url": "http://212.183.29.132:8890/dev_facade/content/svcs/360x132_channel_m_l_x3/3a98bced-3483-4e64-82b1-1549a76b2dce.png"
+              },
+              "eventsAt": {
+                "TVitem": 
+                  {
+                    "id": "72022",
+                    "title": "Traumfrau gesucht",
+                    "start": "2018-02-28T12:00:00Z",
+                    "end": "2018-02-28T13:00:00Z",
+                    "smallImage": {
+                      "url": "http://212.183.29.132:8890/dev_facade/content/epg/313x176_event_m_m_x1/1920x1080_g174_h10_aa_2.jpg"
+                    },
+                    "entitlements": {
+                      "restartTV": false,
+                      "catchupTV": false,
+                      "networkRecording": false
+                    }
+                  }
+                
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "kabel eins Österreich",
+              "logo": {
+                "url": "http://212.183.29.132:8890/dev_facade/content/svcs/360x132_channel_m_l_x3/f025e217-07c7-4169-b6db-bf6089a86f40.png"
+              },
+              "eventsAt": {
+               "TVitem": 
+                  {
+                    "id": "71916",
+                    "title": "Cold Case: Kein Opfer ist je vergessen",
+                    "start": "2018-02-28T11:05:00Z",
+                    "end": "2018-02-28T12:05:00Z",
+                    "smallImage": {
+                      "url": "http://212.183.29.132:8890/dev_facade/content/epg/313x176_event_m_m_x1/1920x1080_p184927_i_h10_aa_2.jpg"
+                    },
+                    "entitlements": {
+                      "restartTV": false,
+                      "catchupTV": false,
+                      "networkRecording": false
+                    }
+                  }
+                }
+              
+            }
+          },
+          {
+            "node": {
+              "title": "Disney Channel",
+              "logo": {
+                "url": "http://212.183.29.132:8890/dev_facade/content/svcs/360x132_channel_m_l_x3/0024f300-143f-4fc4-8a68-8b3aba0fd40d.png"
+              },
+              "eventsAt": {
+                "TVitem": 
+                  {
+                    "id": "71978",
+                    "title": "Phineas und Ferb",
+                    "start": "2018-02-28T11:40:00Z",
+                    "end": "2018-02-28T12:05:00Z",
+                    "smallImage": {
+                      "url": "http://212.183.29.132:8890/dev_facade/content/epg/313x176_event_m_m_x1/1920x1080_p186178_i_h10_aa_2.jpg"
+                    },
+                    "entitlements": {
+                      "restartTV": false,
+                      "catchupTV": false,
+                      "networkRecording": false
+                    }
+                  }
+                }
+              
+            }
+          },
+          {
+            "node": {
+              "title": "Tele5",
+              "logo": {
+                "url": "http://212.183.29.132:8890/dev_facade/content/svcs/360x132_channel_m_l_x3/397aa60c-3dcf-4245-afb3-2d79346dfaa2.png"
+              },
+              "eventsAt": {
+                "TVitem": 
+                  {
+                    "id": "72422",
+                    "title": "Dauerwerbesendung",
+                    "start": "2018-02-28T06:55:00Z",
+                    "end": "2018-02-28T14:15:00Z",
+                    "smallImage": {
+                      "url": "http://212.183.29.132:8890/dev_facade/content/epg/313x176_event_m_m_x1/1920x1080_p363621_b_h10_aa_2.jpg"
+                    },
+                    "entitlements": {
+                      "restartTV": false,
+                      "catchupTV": false,
+                      "networkRecording": false
+                    }
+                  }
+                
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Das Erste",
+              "logo": {
+                "url": "http://212.183.29.132:8890/dev_facade/content/svcs/360x132_channel_m_l_x3/3d8b8e0f-fa76-4d9a-8fa0-047c45261c5e.png"
+              },
+              "eventsAt": {
+                "TVitem": 
+                  {
+                    "id": "72498",
+                    "title": "ARD-Mittagsmagazin",
+                    "start": "2018-02-28T12:00:00Z",
+                    "end": "2018-02-28T13:00:00Z",
+                    "smallImage": {
+                      "url": "http://212.183.29.132:8890/dev_facade/content/epg/313x176_event_m_m_x1/1920x1080_p9560150_b_h10_ab_2.jpg"
+                    },
+                    "entitlements": {
+                      "restartTV": false,
+                      "catchupTV": false,
+                      "networkRecording": false
+                    }
+                  }
+                
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "ORF eins HD",
+              "logo": {
+                "url": "http://212.183.29.132:8890/dev_facade/content/svcs/360x132_channel_m_l_x3/852fc224-aa7a-43cb-9390-5f0b00ec85d2.png"
+              },
+              "eventsAt": {
+                "TVitem": 
+                  {
+                    "id": "78844",
+                    "title": "The Fosters",
+                    "start": "2018-02-28T11:55:00Z",
+                    "end": "2018-02-28T12:35:00Z",
+                    "smallImage": {
+                      "url": "http://212.183.29.132:8890/dev_facade/content/epg/313x176_event_m_m_x1/1920x1080_p9761371_i_h10_ab_2.jpg"
+                    },
+                    "entitlements": {
+                      "restartTV": true,
+                      "catchupTV": true,
+                      "networkRecording": true
+                    }
+                  }
+                
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "ORF 2 W HD",
+              "logo": {
+                "url": "http://212.183.29.132:8890/dev_facade/content/svcs/360x132_channel_m_l_x3/43b8bedd-6a3a-4e6c-b63e-008d1c77fd0a.png"
+              },
+              "eventsAt": {
+                "TVitem": 
+                  {
+                    "id": "72459",
+                    "title": "ZIB",
+                    "start": "2018-02-28T12:00:00Z",
+                    "end": "2018-02-28T12:15:00Z",
+                    "smallImage": {
+                      "url": "http://212.183.29.132:8890/dev_facade/content/epg/313x176_event_m_m_x1/1920x1080_p14109433_b_h10_ab_2.jpg"
+                    },
+                    "entitlements": {
+                      "restartTV": false,
+                      "catchupTV": false,
+                      "networkRecording": false
+                    }
+                  
+                }
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Servus TV HD",
+              "logo": {
+                "url": "http://212.183.29.132:8890/dev_facade/content/svcs/360x132_channel_m_l_x3/7b3f48bc-8b3a-4825-a37f-b32323257ddf.png"
+              },
+              "eventsAt": {
+                "TVitem": 
+                  {
+                    "id": "79250",
+                    "title": "Auf Entdeckungsreise durch Europa",
+                    "start": "2018-02-28T11:15:00Z",
+                    "end": "2018-02-28T12:10:00Z",
+                    "smallImage": {
+                      "url": "http://212.183.29.132:8890/dev_facade/content/epg/313x176_event_m_m_x1/1920x1080_p428358_i_h10_aa_2.jpg"
+                    },
+                    "entitlements": {
+                      "restartTV": false,
+                      "catchupTV": false,
+                      "networkRecording": false
+                    
+                  }
+                }
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Das Erste HD",
+              "logo": {
+                "url": "http://212.183.29.132:8890/dev_facade/content/svcs/360x132_channel_m_l_x3/3f2b5e94-2a3b-4bea-a338-d7679b42edc4.png"
+              },
+              "eventsAt": {
+                "TVitem": 
+                  {
+                    "id": "72602",
+                    "title": "ARD-Mittagsmagazin",
+                    "start": "2018-02-28T12:00:00Z",
+                    "end": "2018-02-28T13:00:00Z",
+                    "smallImage": {
+                      "url": "http://212.183.29.132:8890/dev_facade/content/epg/313x176_event_m_m_x1/1920x1080_p9560150_b_h10_ab_2.jpg"
+                    },
+                    "entitlements": {
+                      "restartTV": false,
+                      "catchupTV": false,
+                      "networkRecording": false
+                    }
+                  }
+                
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "ZDF",
+              "logo": {
+                "url": "http://212.183.29.132:8890/dev_facade/content/svcs/360x132_channel_m_l_x3/7f181ea0-34bd-4ae5-a011-2f6649a209f8.png"
+              },
+              "eventsAt": {
+                "TVitem": 
+                  {
+                    "id": "72115",
+                    "title": "ARD-Mittagsmagazin",
+                    "start": "2018-02-28T12:00:00Z",
+                    "end": "2018-02-28T13:00:00Z",
+                    "smallImage": {
+                      "url": "http://212.183.29.132:8890/dev_facade/content/epg/313x176_event_m_m_x1/1920x1080_p9560150_b_h10_ab_2.jpg"
+                    },
+                    "entitlements": {
+                      "restartTV": false,
+                      "catchupTV": false,
+                      "networkRecording": false
+                    }
+                  }
+                
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Arte",
+              "logo": {
+                "url": "http://212.183.29.132:8890/dev_facade/content/svcs/360x132_channel_m_l_x3/2404d827-27a3-4d93-9350-09d0264f0555.png"
+              },
+              "eventsAt": {
+                "TVitem": 
+                  {
+                    "id": "73494",
+                    "title": "Stadt Land Kunst",
+                    "start": "2018-02-28T12:00:00Z",
+                    "end": "2018-02-28T12:50:00Z",
+                    "smallImage": {
+                      "url": "http://212.183.29.132:8890/dev_facade/content/epg/313x176_event_m_m_x1/1920x1080_p13847903_i_h12_aa_2.jpg"
+                    },
+                    "entitlements": {
+                      "restartTV": false,
+                      "catchupTV": false,
+                      "networkRecording": false
+                    
+                  }
+                }
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "3Sat HD",
+              "logo": {
+                "url": "http://212.183.29.132:8890/dev_facade/content/svcs/360x132_channel_m_l_x3/3d2873d2-2a0f-40c7-8519-37927abc0dfb.png"
+              },
+              "eventsAt": {
+               "TVitem": 
+                  {
+                    "id": "72084",
+                    "title": "ZIB",
+                    "start": "2018-02-28T12:00:00Z",
+                    "end": "2018-02-28T12:15:00Z",
+                    "smallImage": {
+                      "url": "http://212.183.29.132:8890/dev_facade/content/epg/313x176_event_m_m_x1/1920x1080_p14109433_b_h10_ab_2.jpg"
+                    },
+                    "entitlements": {
+                      "restartTV": false,
+                      "catchupTV": false,
+                      "networkRecording": false
+                    }
+                  }
+                
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Anixe HD",
+              "logo": {
+                "url": "http://212.183.29.132:8890/dev_facade/content/svcs/360x132_channel_m_l_x3/a5b3a013-e7e5-452f-a77b-af7ab346d984.png"
+              },
+              "eventsAt": {
+               "TVitem": 
+                  {
+                    "id": "72395",
+                    "title": "Die Welt und Andy Richter",
+                    "start": "2018-02-28T12:00:00Z",
+                    "end": "2018-02-28T12:30:00Z",
+                    "smallImage": {
+                      "url": "http://212.183.29.132:8890/dev_facade/content/epg/313x176_event_m_m_x1/1920x1080_p184778_i_h10_aa_2.jpg"
+                    },
+                    "entitlements": {
+                      "restartTV": false,
+                      "catchupTV": false,
+                      "networkRecording": false
+                    }
+                  }
+                
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "ProSieben Maxx",
+              "logo": {
+                "url": "http://212.183.29.132:8890/dev_facade/content/svcs/360x132_channel_m_l_x3/26150eca-fa93-42e0-9f6b-f43902b63289.png"
+              },
+              "eventsAt": {
+                "TVitem": 
+                  {
+                    "id": "72152",
+                    "title": "Ice Road Truckers",
+                    "start": "2018-02-28T11:45:00Z",
+                    "end": "2018-02-28T12:35:00Z",
+                    "smallImage": {
+                      "url": "http://212.183.29.132:8890/dev_facade/content/epg/313x176_event_m_m_x1/1920x1080_p185608_i_h10_aa_2.jpg"
+                    },
+                    "entitlements": {
+                      "restartTV": true,
+                      "catchupTV": true,
+                      "networkRecording": true
+                    
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
