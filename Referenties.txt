@@ -1,11 +1,13 @@
 https://zappware.com/
 
 RN:
-https://en.wikipedia.org/wiki/React_(JavaScript_library) 
-Learning React Native: Building Native Mobile Apps with JavaScript Door Bonnie Eisenman
-https://code.facebook.com/posts/597378980427792/react-native-a-year-in-review/
-https://en.wikipedia.org/wiki/Document_Object_Model
-
+Oorsprong;: https://en.wikipedia.org/wiki/React_(JavaScript_library) 
+Basis: Learning React Native: Building Native Mobile Apps with JavaScript Door Bonnie Eisenman
+Basis: https://code.facebook.com/posts/597378980427792/react-native-a-year-in-review/
+Virtual DOM:https://en.wikipedia.org/wiki/Document_Object_Model
+Portfolio: http://facebook.github.io/react-native/showcase.html
+Gebruik: https://facebook.github.io/react-native/docs/getting-started.html
+Gebruik: https://g00glen00b.be/introductie-node-js/
 
 
 
@@ -24,9 +26,14 @@ http://opensourceforu.com/2017/06/qt-cross-platform-development-toolkit/
 https://www.quora.com/How-is-QT-cross-platform
 http://doc.qt.io/qt-4.8/signalsandslots.html
 
+Qt Crreator: https://en.wikipedia.org/wiki/Qt_Creator
+portfolio: https://en.wikipedia.org/wiki/Qt_(software)#Applications_using_Qt
+
 Xamarin:
 https://en.wikipedia.org/wiki/Xamarin
 https://msdn.microsoft.com/en-us/library/mt488768.aspx
 https://www.ambrero.nl/artikelen/xamarin-met-c-apps-ontwikkelen-voor-android-ios-en-windows
 Mastering Cross-Platform Development with Xamarin door Can Bilgin
 Xamarin Mobile Application Development door Dan Hermes
+
+Portfolio: https://www.xamarin.com/customers
