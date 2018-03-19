@@ -37,3 +37,4 @@ Mastering Cross-Platform Development with Xamarin door Can Bilgin
 Xamarin Mobile Application Development door Dan Hermes
 
 Portfolio: https://www.xamarin.com/customers
+Gebruik: https://docs.microsoft.com/nl-nl/xamarin/cross-platform/get-started/installation/windows
