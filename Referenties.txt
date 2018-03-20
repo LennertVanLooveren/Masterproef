@@ -1,4 +1,3 @@
-https://zappware.com/
 
 RN:
 Oorsprong;: https://en.wikipedia.org/wiki/React_(JavaScript_library) 
@@ -8,31 +7,30 @@ Virtual DOM:https://en.wikipedia.org/wiki/Document_Object_Model
 Portfolio: http://facebook.github.io/react-native/showcase.html
 Gebruik: https://facebook.github.io/react-native/docs/getting-started.html
 Gebruik: https://g00glen00b.be/introductie-node-js/
+Flux: http://fluxxor.com/what-is-flux.html
+Redux: https://stackoverflow.com/questions/32461229/why-use-redux-over-facebook-flux
 
 
 
 QT:
-https://nl.wikipedia.org/wiki/Qt-toolkit
-https://en.wikipedia.org/wiki/Qt_(software)
-https://www1.qt.io/company/
-http://digia.com/en/actual/news/2016/digia-and-qt-have-demerged-into-two-companies--digias-new-strategys-main-themes-revealed/
-C++ GUI Programming with Qt 4
-Foundations of QT
-https://en.wikipedia.org/wiki/OpenGL
-https://www.opengl.org/resources/libraries/glut/
-https://en.wikipedia.org/wiki/WGL_(API)
-QT – Introduction C++ GUI Programming with Qt 4 -- presentation: Published by Britney Cameron Daniels
-http://opensourceforu.com/2017/06/qt-cross-platform-development-toolkit/
-https://www.quora.com/How-is-QT-cross-platform
-http://doc.qt.io/qt-4.8/signalsandslots.html
+Oorsprong: https://nl.wikipedia.org/wiki/Qt-toolkit
+Oorsprong: https://en.wikipedia.org/wiki/Qt_(software)
+Oorsprong: https://www1.qt.io/company/
+Oorsprong: C++ GUI Programming with Qt 4
+graphics arichitectuur: https://en.wikipedia.org/wiki/OpenGL
+graphics arichitectuur:https://www.opengl.org/resources/libraries/glut/
+graphics arichitectuur:QT – Introduction C++ GUI Programming with Qt 4 -- presentation: Published by Britney Cameron Daniels
+graphics arichitectuur:http://opensourceforu.com/2017/06/qt-cross-platform-development-toolkit/
+graphics arichitectuur:https://www.quora.com/How-is-QT-cross-platform
+Signal en slots: http://doc.qt.io/qt-4.8/signalsandslots.html
 
 Qt Crreator: https://en.wikipedia.org/wiki/Qt_Creator
 portfolio: https://en.wikipedia.org/wiki/Qt_(software)#Applications_using_Qt
 
 Xamarin:
-https://en.wikipedia.org/wiki/Xamarin
-https://msdn.microsoft.com/en-us/library/mt488768.aspx
-https://www.ambrero.nl/artikelen/xamarin-met-c-apps-ontwikkelen-voor-android-ios-en-windows
+Oorsprong: https://en.wikipedia.org/wiki/Xamarin
+Basis: https://msdn.microsoft.com/en-us/library/mt488768.aspx
+Basis: https://www.ambrero.nl/artikelen/xamarin-met-c-apps-ontwikkelen-voor-android-ios-en-windows
 Mastering Cross-Platform Development with Xamarin door Can Bilgin
 Xamarin Mobile Application Development door Dan Hermes
 
